@@ -1,0 +1,5 @@
+# Python dependencies required for the project
+
+tensorflow>=1.2
+keras>=2.1.1
+numpy
